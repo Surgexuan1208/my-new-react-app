@@ -9,6 +9,8 @@ function App() {
     <div className="App">
       <h1>MySlider</h1>
       <MySlider />
+      <h1>MySlider</h1>
+      <MySlider />
       <h1>MyRGBPanel</h1>
       <MyRGBPanel />
       <h1>MyCalculator</h1>
